@@ -25,6 +25,23 @@ Here are some ideas to get you started:
 
 ## 🚀 Tech Stack
 
+```python
+class TechStack:
+    def __init__(self):
+        self.languages = ["Python", "Java", "C++"]
+        self.ai_ml = ["TensorFlow", "PyTorch", "Scikit-Learn"]
+        self.cloud = ["AWS", "Google Cloud"]
+        self.networking = ["TCP/IP", "HTTP/HTTPS"]
+        self.cybersecurity = ["OWASP", "Ethical Hacking"]
+
+    def get_skills(self):
+        return self.languages + self.ai_ml + self.cloud + self.networking + self.cybersecurity
+
+
+
+
+## 🚀 Tech Stack
+
 - 💻 **Languages:** Python, JavaScript
 - 🧠 **Tech Skills:** Machine Learning, Deep Learning
 - 🖥️ **Backend:** Django, Node.js
@@ -46,6 +63,7 @@ Here are some ideas to get you started:
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/steve-dsouza-566124215/)
+
 <!--- 🐦 [Twitter](https://twitter.com/yourtwitter/)
 - 🌐 [Portfolio](https://yourportfolio.com/)
 -->
