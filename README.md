@@ -1,3 +1,4 @@
+![logo](https://github.com/nebokekuma/nebokekuma/blob/main/panda.jfif)
 ### Hi there 👋 Thanks for visiting my Github, I'm Steve
 
 Passionate CS grad with a knack for turning caffeine into code. 👨‍💻 Excited about AI, Backend Development, and all things tech. Currently on a quest to bridge the gap between India 🇮🇳 and Japan 🇯🇵 through the language of code.
